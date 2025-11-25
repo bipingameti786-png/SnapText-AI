@@ -1,0 +1,7 @@
+{
+  "name": "SnapText AI - OCR Converter",
+  "description": "A powerful AI-driven Photo to Text converter supporting multiple languages including English, Hindi, and Gujarati. Capture, extract, edit, and share text instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

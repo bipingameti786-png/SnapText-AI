@@ -1,0 +1,46 @@
+import React from 'react';
+import { 
+  Camera, 
+  Upload, 
+  History, 
+  Moon, 
+  Sun, 
+  ChevronLeft, 
+  Check, 
+  Copy, 
+  Share2, 
+  Save, 
+  Trash2,
+  ScanText,
+  X,
+  RotateCcw,
+  FileText,
+  ZoomIn,
+  ZoomOut,
+  Maximize2,
+  Highlighter,
+  Eraser
+} from 'lucide-react';
+
+export { 
+  Camera, 
+  Upload, 
+  History, 
+  Moon, 
+  Sun, 
+  ChevronLeft, 
+  Check, 
+  Copy, 
+  Share2, 
+  Save, 
+  Trash2,
+  ScanText,
+  X,
+  RotateCcw,
+  FileText,
+  ZoomIn,
+  ZoomOut,
+  Maximize2,
+  Highlighter,
+  Eraser
+};
